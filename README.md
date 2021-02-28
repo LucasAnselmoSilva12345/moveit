@@ -1,34 +1,35 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h3 align="center">
+  MoveIt<br/>
+  Ciclos de trabalhos responsáveis pela sua saúde 
+</h3>
 
-## Getting Started
+<p align="center">
+  <a href="">MoveIt</a>
+</p>
 
-First, run the development server:
+<p align="center" width="100%">
+  <a data-flickr-embed="true" href="https://www.flickr.com/photos/190690980@N06/50989529772/in/dateposted-public/" title="Home"><img src="https://live.staticflickr.com/65535/50989529772_2084239ca4_c.jpg" width="800" height="451" alt="Home"></a>
+</p>
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+## 🚀 Tecnologias
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Esse projeto foi desenvolvido usando as seguintes tecnologias:
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+- [REACT](https://pt-br.reactjs.org/)
+- [TYPESCRIPT](https://www.typescriptlang.org/)
+- [NEXTJS](https://nextjs.org/)
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+## 💻 Projeto
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+O Moveit é uma aplicação, onde a cada tempo de ciclo trabalhado em frente ao computador, o usuário, é convidado a realizar um exercício físico, bem leve, a fim de melhorar a sua saúde, e evitar alguns problemas como físico, de visão, e entre outros.
 
-## Learn More
+Realizando esses exercícios, o usuário, pode avançar de level na aplicação, e também acaba ganhando os famosos 'XP', porém a maior vitória para o usuário, é saber, que esses exercícios, que ele realiza, é para seu próprio bem.
 
-To learn more about Next.js, take a look at the following resources:
+## © - Responsável pelo desenvolvimento da plataforma
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Lucas Anselmo Moraes Da Silva - Projeto desenvolvido na semana Next Level Week 04
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## 🌎 LinkedIn
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<a href="https://www.linkedin.com/posts/lucas-anselmo-moraes-da-silva-543636161_nlw4-rocketseat-nlw-activity-6771828348076224512-lCYU" alt="Linkedin">
+<img src="https://img.shields.io/badge/-Lucas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-anselmo-moraes-da-silva-543636161/" /></a>
