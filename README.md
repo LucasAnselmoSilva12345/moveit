@@ -3,10 +3,6 @@
   Ciclos de trabalhos responsáveis pela sua saúde 
 </h3>
 
-<p align="center">
-  <a href="">MoveIt</a>
-</p>
-
 <p align="center" width="100%">
   <a data-flickr-embed="true" href="https://www.flickr.com/photos/190690980@N06/50989529772/in/dateposted-public/" title="Home"><img src="https://live.staticflickr.com/65535/50989529772_2084239ca4_c.jpg" width="800" height="451" alt="Home"></a>
 </p>
